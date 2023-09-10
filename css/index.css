@@ -1,6 +1,6 @@
 @font-face {
     font-family: 'cafeFont';
-    src: url(/fonts/Kepo\ Coffee\ Font\ by\ 7NTypes.otf);
+    src: url(../fonts/Kepo\ Coffee\ Font\ by\ 7NTypes.otf);
 }
 
 :root{
@@ -91,7 +91,7 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
-    background-image: url(/img/imagem_principal.jpg);
+    background-image: url(../img/imagem_principal.jpg);
     background-position: center center;
     background-size: cover;
     background-attachment: scroll;
@@ -176,7 +176,7 @@ body{
 
 
 .section2_5 {
-    background-image: url(/img/section01.jpeg);
+    background-image: url(../img/section01.jpeg);
     background-size: cover;
     height: 400px;
     background-position: center center;
@@ -191,7 +191,7 @@ body{
 /*Cardapio*/
 
 .cardapio{
-    background-image: url(/img/cardapio.jpg);
+    background-image: url(../img/cardapio.jpg);
     background-size: cover;
     background-position: center center;
     background-attachment: scroll;
@@ -238,7 +238,7 @@ body{
 
 
 .section3_5{
-    background-image: url(/img/section3.jpg);
+    background-image: url(../img/section3.jpg);
     background-size: cover;
     height: 400px;
     background-position: center center;
@@ -255,7 +255,7 @@ body{
 
 .endereco{
 
-    background-image: url(/img/local.jpg);
+    background-image: url(../img/local.jpg);
     background-size: cover;
     background-position: center center;
     background-attachment: scroll;
@@ -314,7 +314,7 @@ body{
 /*Rodapé*/
 
 footer{
-    background-image: url(/img/horarios.jpg);
+    background-image: url(../img/horarios.jpg);
     background-color: #8C4820;
     color: white;
     padding: 20px;
