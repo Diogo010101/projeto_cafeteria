@@ -91,7 +91,7 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
-    background-image: url(..//img/imagem_principal.jpg);
+    background-image: url(../img/imagem_principal.jpg);
     background-position: center center;
     background-size: cover;
     background-attachment: scroll;
