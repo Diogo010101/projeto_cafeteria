@@ -1,3 +1,7 @@
+html{
+    scroll-behavior: smooth;
+}
+
 @font-face {
     font-family: 'cafeFont';
     src: url(../fonts/Kepo\ Coffee\ Font\ by\ 7NTypes.otf);
