@@ -176,7 +176,7 @@ body{
 
 
 .section2_5 {
-    background-image: url(../img/section01.jpeg);
+    background-image: url(/img/section01.jpeg);
     background-size: cover;
     height: 400px;
     background-position: center center;
