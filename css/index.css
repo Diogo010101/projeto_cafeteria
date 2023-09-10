@@ -165,7 +165,7 @@ body{
 
 
 .img-quem-somos:hover{
-    transform: scale(110%);
+    transform: scale(105%);
     margin: 10px;
     transition: all 1s;
     filter: saturate(150%);
@@ -342,3 +342,5 @@ footer{
 
 
 }
+
+
