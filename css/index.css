@@ -187,8 +187,9 @@ body{
     background-attachment: fixed;
     text-align: center;
     border-top: dashed 1px var(--cor03);
-    box-shadow: 3px 3px 2px rgba(0, 0, 0, 0.329);
+    box-shadow: inset 3px 3px 2px rgba(0, 0, 0, 0.329);
     color: white;
+
 
 }
 
@@ -200,6 +201,7 @@ body{
     background-position: center center;
     background-attachment: scroll;
     padding: 20px;
+    box-shadow: inset 3px 3px 2px rgba(0, 0, 0, 0.329);
 }
 
 #cardapio_flex{
@@ -251,7 +253,7 @@ body{
     border-top: dashed 1px var(--cor03);
     box-shadow: 3px 3px 2px rgba(0, 0, 0, 0.329);
     color: white;
-    border-radius: 10px
+    box-shadow: inset 3px 3px 2px rgba(0, 0, 0, 0.329);
 
 }
 
