@@ -7,13 +7,18 @@
     <link rel="stylesheet" href="./css/index.css">
     <link rel="stylesheet" href="./css/botao_subir.css">
     <link rel="shortcut icon" href="favicon.png" type="image/x-icon">
+    <link rel="stylesheet"
+        href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@24,400,0,0" />
     <script defer src="./js/index.js"></script>
     <title>Coffee Braek Café</title>
 </head>
-<body class="scroll-page">
+<body class="scroll-page" onresize="ajusteMenu()">
 
     <header class="header_flex">
-        <img id="logo" src="./img/logo_coffe_break_cafeteria_web.png" alt="Logo da Cafeteria">
+        <div id="logo_e_menu_flex">
+            <img id="logo" src="./img/logo_coffe_break_cafeteria_web.png" alt="Logo da Cafeteria">
+            <span onclick="dropMenu()" class="material-symbols-outlined" id="menu_drop" >menu</span>
+        </div>
 
     <!--Quem Somos-->
         <nav id="menu_principal">
